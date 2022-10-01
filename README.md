@@ -10,4 +10,3 @@ A Power BI dashboard is a single page, often called a canvas, that tells a story
 Version:
 September 2021 Update (2.97. 801.0)
 </div>
-
